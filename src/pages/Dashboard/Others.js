@@ -45,7 +45,7 @@ const Others = props => {
             <CardImg top className="img-fluid" src={lycee} alt="Lexa" />
             <CardBody>
               <CardTitle className="h4">High School diploma</CardTitle>
-              <CardText>Siliana High school</CardText>
+              <CardText>Rouhia High school</CardText>
             </CardBody>
           </Card>
         </Col>
