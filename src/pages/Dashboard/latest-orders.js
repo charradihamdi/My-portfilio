@@ -83,7 +83,6 @@ class LatestOrders extends Component {
                           {order.status}
                         </Badge>
                       </td>
-                      <td>${order.amount}</td>
                       <td>{order.date}</td>
                     </tr>
                   ))}
